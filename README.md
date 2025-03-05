@@ -9,6 +9,7 @@
 <a href="../ch4"><img src="https://img.shields.io/badge/Ch4-000000?style=for-the-badge" alt="Ch4"/></a>
 <a href="../ch4-fix"><img src="https://img.shields.io/badge/Ch4--Fix-000000?style=for-the-badge" alt="Ch4-Fix"/></a>
 <a href="../ch5"><img src="https://img.shields.io/badge/Ch5-000000?style=for-the-badge" alt="Ch5"/></a>
+<a href="../ch5.11"><img src="https://img.shields.io/badge/Ch5.11-000000?style=for-the-badge" alt="Ch5.11"/></a>
 
 <h3 align="center">Sobre o jogo</h3>
 <a href="https://themagicalgurl.itch.io/projekt-moon"><img src="https://img.shields.io/badge/Disponível%20na%20itch.io-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Disponível na itch.io"/></a>
