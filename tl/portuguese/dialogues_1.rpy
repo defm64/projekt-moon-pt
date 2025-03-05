@@ -1,39 +1,39 @@
 ﻿translate portuguese start_9185fe9c:
-    asia ""
+    asia "Você tem 18 anos ou mais? Então você pode ver essas coisas onde quer que esteja..."
 translate portuguese start_a982bb71:
-    asia ""
+    asia "Parabéns, você é uma pessoa adulta, como eu. Agora, vamos nessa! Bora começar nossa história agora."
 translate portuguese start_c8c2b87c:
-    asia ""
+    asia "Volte quando for mais velho. Você vai acabar perdendo seu olho, jovem."
 translate portuguese story_9d75a846:
-    du ""
+    du "Olá, amigos, e bem-vindos ao fim de uma era. A conclusão do capítulo 4 e avançando para o "Endgame". Parece que Projekt Moon: Hope Awakens será o primeiro lançamento oficial da série."
 translate portuguese story_e9176a98:
-    du ""
+    du "Então, o que uma divindade tem a dizer para os mortais? Bem, em primeiro lugar, eu desempenho muitos papéis, mas hoje sou avatar de quem desenvolve isso aqui. Então, vou cortar a comédia e partir para as coisas sérias."
 translate portuguese story_c3f114f3:
-    du ""
+    du "Para começo de conversa, obrigado por jogar. Se você gostou deste jogo, deixe um comentário, curtida, qualquer sinal de vida de que você possa ter gostado disso. É um impulso enorme para mim como dev."
 translate portuguese story_8cac66d8:
-    du ""
+    du "Meu único motivo para criar isso foi ter um jogo pornô feito PELOS JOGADORES, PARA OS JOGADORES. Feedback sobre como eu posso melhorar algo que não esteja bom o suficiente ou um comentário falando sobre o que você gostou é bacana e me mostra que as pessoas se importam com o meu trabalho."
 translate portuguese story_1c81eadd:
-    du ""
+    du "Eu não queria que você passasse por uma introdução sem nada de bom para olhar. Então, eu escolhi um render feito especialmente para os meus assinantes do Patreon/SubscribeStar. Aproveite!"
 translate portuguese story_dce43215:
-    du ""
+    du "Se você curtiu muito, muito mesmo, considere usar meu Linktree ou os links do SubscribeStar/Patreon no menu para me apoiar e ver outras imagens como esta."
 translate portuguese story_9fd04ebc:
-    du ""
+    du "Eu desenvolvo isso aqui em tempo parcial. O tempo é limitado, mas seus recursos me oferecem mais tempo e a chance de melhorar meu equipamento."
 translate portuguese story_ff2799a9:
-    du ""
+    du "O novo avatar estiloso que tenho usado por ai na Internet? Aquele híbrido de Asia/Sailor Moon? Pago com SUA doação. Obrigado."
 translate portuguese story_d54ff1d3:
-    du ""
+    du "Agora, alguns tutoriais básicos. Se você não gostar de uma escolha, retorne movimentando o scroll do mouse para CIMA. Quase tudo aqui pode ser feito com seu mouse. Uma verdadeira experiência gamer com uma mão, porque este é um jogo pornô, certo?"
 translate portuguese story_47352a74:
-    du ""
+    du "Tire screenshots com a tecla S e remova a interface com a tecla H, se quiser ver tudo. Pressione Ctrl para pular o diálogo rapidamente, se já tiver visto e quiser voltar para onde estava."
 translate portuguese story_6e9f8627:
-    du ""
+    du "Se você acha que pode se arrepender de uma escolha, salve o jogo. Se não fez isso, verifique seus salvamentos automáticos. Eu não me importo como você joga após baixar o jogo, desde que você SE DIVIRTA. Que conceito!"
 translate portuguese story_88e8b8ca:
-    du ""
+    du "Use save scumming, cheats, faça o que quiser, mas eu desaprovo o uso do console para trapaças ou bugs. Se você bagunçar meu código, eu não me responsabilizo por problemas, especialmente se forem relacionados a jogabilidade."
 translate portuguese story_407a5f37:
-    du ""
+    du "Eu quero seguir adiante, já que expus todos os meus pontos. Então, hora de você começar a jogar essa visual novel adulta."
 translate portuguese intro_934e4722:
-    fmcn ""
+    fmcn "Então você queria minha autobiografia, hein? Bem, eu não sei o que dizer. Minha vida tem sido uma loucura e eu tenho tentado demonstrar amor a todos, por onde quer que eu vá."
 translate portuguese intro_0622cdf8:
-    ""
+    "Eu agora sou uma garota mágica imortal, híbrida humano-máquina com estilo ilimitado, que tem mana e poder incalculáveis que podem destruir planetas."
 translate portuguese intro_ee1e952f:
     ""
 translate portuguese intro_0fb0c8ec:
