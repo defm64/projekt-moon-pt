@@ -5,7 +5,7 @@ translate portuguese start_a982bb71:
 translate portuguese start_c8c2b87c:
     asia "Volte quando for mais velho. Você vai acabar perdendo seu olho, jovem."
 translate portuguese story_9d75a846:
-    du "Olá, amigos, e bem-vindos ao fim de uma era. A conclusão do capítulo 4 e avançando para o "Endgame". Parece que Projekt Moon: Hope Awakens será o primeiro lançamento oficial da série."
+    du "Olá, amigos, e bem-vindos ao fim de uma era. A conclusão do capítulo 4 e avançando para o Endgame. Parece que Projekt Moon: Hope Awakens será o primeiro lançamento oficial da série."
 translate portuguese story_e9176a98:
     du "Então, o que uma divindade tem a dizer para os mortais? Bem, em primeiro lugar, eu desempenho muitos papéis, mas hoje sou avatar de quem desenvolve isso aqui. Então, vou cortar a comédia e partir para as coisas sérias."
 translate portuguese story_c3f114f3:
