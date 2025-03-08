@@ -10,7 +10,7 @@ screen main_menu():
                 style "main_menu_title"
             text "[config.version]":
                 style "main_menu_version"
-    imagebutton auto "defm64/defm64_%s.png" xpos 10 ypos 974 action OpenURL("https://github.com/defm64")
+    imagebutton auto "defm64/defm64_%s.png" xpos 10 ypos 974 action OpenURL("https://allmylinks.com/defm64")
 screen about():
     tag menu
     use game_menu(_("About"), scroll="viewport"):
