@@ -568,7 +568,7 @@ translate portuguese strings:
     old "Let us Begin"
     new "Vamos Começar"
     old "The Compendium"
-    new "O Compêndio"
+    new "Compêndio"
     old "Save?"
     new "Quer Salvar?"
     old "Album WIP"
