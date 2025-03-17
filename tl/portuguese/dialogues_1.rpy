@@ -45,15 +45,15 @@ translate portuguese intro_00aa2f64:
 translate portuguese intro_cb35d4ca:
     "Eu era um cara comum levando a vida sem grandes emoções, não namorava desde o ensino médio e tinha poucos interesses, mas o principal era astronomia."
 translate portuguese intro_d45e3a1f:
-    ""
+    "Agora, eu estava planejando isso por semanas. Eu estava no Riddit, lendo páginas de astronomia, buscando o momento perfeito para ver os planetas alinhados pela primeira vez em gerações."
 translate portuguese intro_fa81c8c3:
-    ""
+    "Eu amava a ideia de que existia algo mais lá fora. Algo interessante e novo, algo divertido que nunca tinha sido visto antes."
 translate portuguese intro_0c15da2a:
-    ""
+    "Algum gás ou metal que pudesse levar a humanidade a novos patamares, infinito em sua abundância e que eliminasse nossa necessidade de depender dos malditos cadáveres de dinossauros mortos há milhões de anos, que não se renovam."
 translate portuguese intro_03628007:
-    ""
+    "Tipo o elemento zero, pensei, mas neguei com a cabeça enquanto tirava as coisas do meu SUV."
 translate portuguese intro_618c9b1c:
-    ""
+    "O céu noturno estava lindo, o campo que eu escolhi era perfeito, a lua estava iluminando suavemente a noite ao meu redor, e nenhuma luz da cidade interromperia meu único amor verdadeiro."
 translate portuguese intro_78c793da:
     ""
 translate portuguese intro_d10e05b8:
