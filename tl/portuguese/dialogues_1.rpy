@@ -35,15 +35,15 @@ translate portuguese intro_934e4722:
 translate portuguese intro_0622cdf8:
     "Eu agora sou uma garota mágica imortal, híbrida humano-máquina com estilo ilimitado, que tem mana e poder incalculáveis que podem destruir planetas."
 translate portuguese intro_ee1e952f:
-    ""
+    "Olá, como vai? Não, eu não quero contar piadas. Ninguém quer que eu faça graça ou você acha que o humor ajudaria, autor-sama?"
 translate portuguese intro_0fb0c8ec:
-    ""
+    "Eh, bem, eu fico pensando nas minhas origens. Minha vida tem sido uma loucura, mas vamos lá. Você me vê aqui como um homem e eu não era muita coisa."
 translate portuguese intro_aa368f6b:
-    ""
+    "Mas agora, eu sou diferente. Não pouparei detalhes nesta história. Sem máscaras. Cru e sem cortes."
 translate portuguese intro_00aa2f64:
-    ""
+    "Eu começo a pensar no passado enquanto continuo escrevendo o email pro autor que pediu minha história de vida. Planejamos publicá-la, na esperança de termos um novo best-seller do New York Times em mãos, mas estou divagando."
 translate portuguese intro_cb35d4ca:
-    ""
+    "Eu era um cara comum levando a vida sem grandes emoções, não namorava desde o ensino médio e tinha poucos interesses, mas o principal era astronomia."
 translate portuguese intro_d45e3a1f:
     ""
 translate portuguese intro_fa81c8c3:
