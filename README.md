@@ -6,8 +6,8 @@
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/Licenciada%20sob%20CC%20BY--NC--SA%204.0-000000?style=for-the-badge" alt="Licenciada sob CC BY-NC-SA 4.0"/></a>
 
 <h3 align="center">Em desenvolvimento para as versões</h3>
-<a href="../ch4"><img src="https://img.shields.io/badge/Ch4-000000?style=for-the-badge" alt="Ch4"/></a>
-<a href="../ch4-fix"><img src="https://img.shields.io/badge/Ch4--Fix-000000?style=for-the-badge" alt="Ch4-Fix"/></a>
+<a href="../ch4"><img src="https://img.shields.io/badge/Ch4%20%2F%20%22Demo%22-000000?style=for-the-badge" alt="Ch4 / Demo"/></a>
+<a href="../ch4-fix"><img src="https://img.shields.io/badge/Ch4--Fix%20%2F%20%22Demo%22-000000?style=for-the-badge" alt="Ch4-Fix / Demo"/></a>
 <a href="../ch5"><img src="https://img.shields.io/badge/Ch5-000000?style=for-the-badge" alt="Ch5"/></a>
 <a href="../ch5.11"><img src="https://img.shields.io/badge/Ch5.11-000000?style=for-the-badge" alt="Ch5.11"/></a>
 <a href="../ch5.11-fix"><img src="https://img.shields.io/badge/Ch5.11--Fix-000000?style=for-the-badge" alt="Ch5.11-Fix"/></a>
