@@ -25,7 +25,7 @@ translate portuguese story_d54ff1d3:
 translate portuguese story_47352a74:
     du "Tire screenshots com a tecla S e remova a interface com a tecla H, se quiser ver tudo. Pressione Ctrl para pular o diálogo rapidamente, se já tiver visto e quiser voltar para onde estava."
 translate portuguese story_6e9f8627:
-    du "Se você acha que pode se arrepender de uma escolha, salve o jogo. Se não fez isso, verifique seus salvamentos automáticos. Eu não me importo como você joga após baixar o jogo, desde que você SE DIVIRTA. Que conceito!"
+    du "Se você acha que pode se arrepender de uma escolha, salve o jogo. Se não fez isso, verifique seus saves automáticos. Eu não me importo como você joga após baixar o jogo, desde que você SE DIVIRTA. Que conceito!"
 translate portuguese story_88e8b8ca:
     du "Use save scumming, cheats, faça o que quiser, mas eu desaprovo o uso do console para trapaças ou bugs. Se você bagunçar meu código, eu não me responsabilizo por problemas, especialmente se forem relacionados a jogabilidade."
 translate portuguese story_407a5f37:
