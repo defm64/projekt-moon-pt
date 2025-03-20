@@ -65,19 +65,19 @@ translate portuguese intro_beb49658:
 translate portuguese intro_243b7c5e:
     "Enquanto digito isso, em retrospectiva, caro leitor, acho que preciso te contar que isso custou mais do que o meu aluguel do mês."
 translate portuguese intro_562e1668:
-    ""
+    "Deu muito trabalho para conseguir, mas senti um verdadeiro senso de orgulho em possuir um telescópio tão foda."
 translate portuguese intro_660c524a:
-    pmc ""
+    pmc "Noite perfeita para olhar as estrelas, de verdade!"
 translate portuguese intro_b310521e:
-    ""
+    "Eu declarei em alto e bom som, já que não tinha uma alma viva por perto. Meu estômago rosnou um pouco e eu puxei alguns sanduíches de manteiga de amendoim e geléia de uva."
 translate portuguese intro_f2eaebcc:
-    ""
+    "Apesar de ser um homem adulto, eu ainda amava o sabor das comidas clássicas da infância."
 translate portuguese intro_d484c6da:
-    ""
+    "Tive uma sensação estranha de que alguém me observava e não sabia por quê."
 translate portuguese intro_a0cbe47d:
-    ""
+    "Não havia ninguém próximo, nem um pouco, mas eu sentia que alguém me observava e isso estava me arrepiando de verdade."
 translate portuguese intro_9fc8589c:
-    ""
+    "Pensei que era apenas minha paranoia de sempre graças ao meu passado e me esforcei para ignorar a sensação. Engoli tudo com um pouco de água e fui para o que realmente importava."
 translate portuguese intro_7cfa9595:
     ""
 translate portuguese intro_1dd0faf7:
