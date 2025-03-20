@@ -55,15 +55,15 @@ translate portuguese intro_03628007:
 translate portuguese intro_618c9b1c:
     "O céu noturno estava lindo, o campo que eu escolhi era perfeito, a lua estava iluminando suavemente a noite ao meu redor, e nenhuma luz da cidade interromperia meu único amor verdadeiro."
 translate portuguese intro_78c793da:
-    ""
+    "Eu reflito sobre aqueles dias, caro leitor, e não sei o que pensar. Ser um otaku de ciências é cringe? Não sei se consigo responder isso."
 translate portuguese intro_d10e05b8:
-    ""
+    "Eu realmente tinha dedicado muito tempo, esforço e energia naquela noite. Estou um pouco triste pensando em como ela terminou, de certa forma."
 translate portuguese intro_287f6d66:
-    ""
+    "Eu montei o telescópio que precisei economizar por meses para comprar, inclusive passando fome, vivendo a base de leite e cereal só para conseguir ter esse negócio."
 translate portuguese intro_beb49658:
-    ""
+    "O Telescópio Apertura AD8 Dobsonian de 8 polegadas, um belo dispositivo que me deixou 700 dólares mais pobre."
 translate portuguese intro_243b7c5e:
-    ""
+    "Enquanto digito isso, em retrospectiva, caro leitor, acho que preciso te contar que isso custou mais do que o meu aluguel do mês."
 translate portuguese intro_562e1668:
     ""
 translate portuguese intro_660c524a:
