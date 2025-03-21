@@ -79,21 +79,21 @@ translate portuguese intro_a0cbe47d:
 translate portuguese intro_9fc8589c:
     "Pensei que era apenas minha paranoia de sempre graças ao meu passado e me esforcei para ignorar a sensação. Engoli tudo com um pouco de água e fui para o que realmente importava."
 translate portuguese intro_7cfa9595:
-    ""
+    "Olhei através da lente do meu telescópio e vi a vista mais linda da lua que meus olhos já presenciaram."
 translate portuguese intro_1dd0faf7:
-    ""
+    "Eu sei como é a nossa lua, mas vê-la assim foi um momento de pura alegria para mim. No entanto, isso mudou de repente, quando um objeto estranho que eu nunca tinha visto antes, entrou no meu campo de visão."
 translate portuguese intro_50fd78f1:
-    ""
+    "Era bizarro e algo que eu encontraria em um filme de ficção científica, e a visão disso me fez arrancar meu olho com o visor do telescópio."
 translate portuguese intro_fd29b8db:
-    pmc ""
+    pmc "'Ai!' Eu disse, pulando para trás depois que a descoberta me assustou."
 translate portuguese intro_8977059f:
-    ""
+    "Corri para colocar meu telescópio de volta no meu SUV e fui juntar minhas coisas quando algo chocante aconteceu."
 translate portuguese intro_5b654e1c:
-    ""
+    "Uma espaçonave obviamente alienígena apareceu sobre minha cabeça, então um feixe me envolveu e comecei a sentir que estava deixando o chão."
 translate portuguese intro_3266c3af:
-    pmc ""
+    pmc "'NÃO! SIM! Mas que diabos é isso?!' Eu disse em choque e confusão enquanto o enredo de alguns dos meus episódios favoritos de Arquivo X literalmente ganhavam vida diante dos meus olhos."
 translate portuguese intro_d12822b5:
-    ""
+    "De repente, eu estava a bordo desta nave. Imediatamente senti um choque, como se tivessem me atingido por uma arma de choque, e desabei no chão."
 translate portuguese skipintro_b14acf0e:
     ""
 translate portuguese skipintro_9f19808a:
