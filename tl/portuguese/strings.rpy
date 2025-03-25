@@ -670,7 +670,7 @@ translate portuguese strings:
     old "Go to hell!"
     new "Vai para o inferno!"
     old "Fuck you (BAD ENDING!)"
-    new "Vai se foder (FINAL RUÍM!)"
+    new "Vai se foder (FINAL RUIM!)"
     old "I won't let fear compromise who I am!"
     new "Eu não vou deixar o medo afetar quem eu sou!"
     old "Maybe you have a point... Renegade Shep was fun too."
