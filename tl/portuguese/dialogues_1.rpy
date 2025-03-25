@@ -1,5 +1,5 @@
 ﻿translate portuguese start_9185fe9c:
-    asia "Você tem 18 anos ou mais? Então você pode ver essas coisas onde quer que esteja..."
+    asia "Você tem 18 anos ou mais? Só assim você vai poder ver essas coisas em qualquer lugar..."
 translate portuguese start_a982bb71:
     asia "Parabéns, você é uma pessoa adulta, como eu. Agora, vamos nessa! Bora começar nossa história agora."
 translate portuguese start_c8c2b87c:
