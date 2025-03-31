@@ -115,15 +115,11 @@ screen preferences():
                             action Preference("all mute", "toggle")
                             style "mute_all_button"
 image language_menu_background = "gui/main_menu2.png"
-default persistent.language_selected = False
 label splashscreen:
-    if not persistent.language_selected:
-        scene language_menu_background with fade:
-            blur 15.0
-        menu:
-            "English":
-                $ renpy.change_language(None)
-                $ persistent.language_selected = True
-            "Português":
-                $ renpy.change_language("portuguese")
-                $ persistent.language_selected = True
+    scene language_menu_background with fade:
+        blur 15.0
+    menu:
+        "English":
+            $ renpy.change_language(None)
+        "Português":
+            $ renpy.change_language("portuguese")
