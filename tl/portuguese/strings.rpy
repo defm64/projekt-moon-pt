@@ -572,7 +572,7 @@ translate portuguese strings:
     old "Servant [name]"
     new "Servo [name]"
     old "MC"
-    new "MC"
+    new "Protagonista"
     old "NPC"
     new "NPC"
     old "Lilim the Succubus"
